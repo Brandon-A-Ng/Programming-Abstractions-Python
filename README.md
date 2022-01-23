@@ -1,2 +1,2 @@
-# Programming_Abstractions_Python
- Brandon Ng's Python Projects
+# Programming_Abstractions_Python_Projects
+ Python Projects
